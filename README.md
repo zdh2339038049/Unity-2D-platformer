@@ -1,4 +1,4 @@
-\# Unity 2D Platformer Game
+# Unity 2D Platformer Game
 
 
 
@@ -6,7 +6,7 @@
 
 
 
-\## 技术栈
+## 技术栈
 
 \- Unity 2022.3 LTS
 
@@ -14,7 +14,7 @@
 
 
 
-\## 实现功能
+## 实现功能
 
 \- 角色移动与跳跃
 
@@ -32,11 +32,12 @@
 
 
 
-\## 如何运行
+## 如何运行
 
 1\. 从 \[Releases](https://github.com/zdh2339038049/Unity-2D-platformer/releases) 下载构建文件
 
 2\. 解压后双击 `PlatformerGame.exe` 即可运行
 
 
-
+## 截图
+自行查看4张微信图片
